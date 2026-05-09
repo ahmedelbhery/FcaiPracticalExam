@@ -1,6 +1,6 @@
 # ==========================================================
 # Big Data Practical Project - Healthcare Dataset
-# Cleaning + Visualization + MapReduce + Multiple Algorithms
+# Cleaning + Visualization + MapReduce + Multiple Algorithms.
 # ==========================================================
 
 import pandas as pd
