@@ -196,7 +196,7 @@ reduce_result = {}
 
 for key, value in mapped_data:
     reduce_result[key] = reduce_result.get(key, 0) + value
-
+    
 print(reduce_result)
 
 
